@@ -4,9 +4,11 @@ The theme combines cool violet undertones in the background with warm, woody red
 
 ![](./theme.png)
 
-Screenshot: Hyprland with custom borders, Waybar, Ghostty terminal, and Neovim in action.
+Screenshot: Hyprland with custom borders, Waybar, Alacritty terminal, and Neovim in action.
 
-The theme is based on [this image](https://wallpapers.com/wallpapers/red-tree-gz3t2tpxv27u9ykq.html) and created using [Tēma](https://github.com/bjarneo/tema).
+# Wallpapers
 
-![](./backgrounds/0217771a-9450-4af9-af9a-c9c88e9a3b2d.png)
+![](./backgrounds/1_twilight_path_through_a_crimson_forest.jpg)
+
+![](./backgrounds/2_twilight_forest_with_glowing_nebula.jpg)
 
